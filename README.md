@@ -1,7 +1,7 @@
-# for support join here [TorrentLeech-Gdrive](https://telegram.dog/GBotStore)
-# working example group [Leech Here](https://telegram.dog/GBotStore)
+# for support join here [Torrent Leech](https://telegram.dog/BlinkCloud)
 
-# Telegram Torrent Leecher 🔥🤖
+
+# Telegram Torrent Leecher..Bot.
 
 A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
 
@@ -19,8 +19,8 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
     ✓ You can also deploy this on your VPS
     ✓ Option to select either video will be uploaded as document or streamable
     ✓ Added /renewme command to clear the downloads which are not deleted automatically.
-    ✓ Added support for youtube playlist 😐
-    ✓
+    ✓ Added support for youtube playlist 
+  
     
 # TO-DO
 -   ~Gdrive file clonning using Gclone~ `DONE ✓`
@@ -34,19 +34,7 @@ A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.c
 
 ### The Easy Way
 
-#### STEPS (I did this to avoid the use of same button multiple times)
 
-a)You have to fork this repo at first(Don't know how to🤔, Then google it😐)
-
-b)Find `app.jso`. 🧐
-
-c)Tap on that. 😬
-
-d)Tap to edit and just add `n` at last of name (Don't touch code🤦). ✍️
-
-e)It should look like `app.json`. 🎉
-
-f)Then tap 👇👇
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) #Revived
 
@@ -286,12 +274,4 @@ sudo docker run torrentleech-gdrive
 * send any one of the available command, as a reply to a valid link/magnet/torrent. 👊
 
 
-## Credits, and Thanks to
-* [GautamKumar(me)](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
-* [SpEcHiDe](https://github.com/SpEcHiDe/PublicLeech) for his wonderful code😚
-* [Rclone Team](https://rclone.org) for theirs awesome tool☁️
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [Robots](https://telegram.dog/Robots) for their [@UploadBot](https://telegram.dog/UploadBot)
-* [@AjeeshNair](https://telegram.dog/AjeeshNait) for his [torrent.ajee.sh](https://torrent.ajee.sh)
-* [@gotstc](https://telegram.dog/gotstc), @aryanvikash, [@HasibulKabir](https://telegram.dog/HasibulKabir) for their TORRENT groups
-* [![CopyLeft](https://telegra.ph/file/b514ed14d994557a724cb.jpg)](https://telegra.ph/file/fab1017e21c42a5c1e613.mp4 "CopyLeft Credit Video")
+
